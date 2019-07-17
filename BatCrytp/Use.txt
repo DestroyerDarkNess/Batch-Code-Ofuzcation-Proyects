@@ -1,0 +1,13 @@
+Hola a todos los de el foro, les traigo un pequeño en criptador de código fuente
+de batch.
+
+ES una herramienta Comand line  espero que les sirva.
+
+LINK DE LA HERRAMIENTA:
+
+https://mega.nz/#!1180RYjT!Dt7Rxl5pU69fO8soIF5iineUJAi9L6Ez95OOG7yDf6o
+
+
+Example:    
+                                              
+start batcrypt.bat -e "%userprofile%\Desktop\pto.bat"
